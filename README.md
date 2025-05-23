@@ -34,7 +34,7 @@ Then visit [http://localhost:5000] in your browser!
 
 ##  Running the App Locally (Without Docker)
 
-If you prefer to run the Flask app directly on your local machine:
+If you prefer to run the Flask app on your local machine directly:
 
 ### Step 1: Set up a virtual environment
 ```bash
@@ -73,6 +73,7 @@ Older versions of the tutorial:
 ```
 ├── app/
 ├── logs/
+├── Screenshots/
 ├── migrations/
 ├── boot.sh
 ├── config.py
